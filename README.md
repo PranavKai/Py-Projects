@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 =======
 # Pong Game
 
@@ -37,5 +37,5 @@ To play the game, run the `main.py` script:```python main.py```
 
 Control the right paddle with the "Up" and "Down" arrow keys, and the left paddle with "W" and "S".
 
->>>>>>> master
+
 

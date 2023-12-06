@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Pong Game
 
 This repository contains a simple yet classic implementation of the Pong game using Python and the Turtle Graphics library. Experience the nostalgia of one of the earliest arcade video games right in your Python environment!
@@ -37,5 +35,4 @@ To play the game, run the `main.py` script:```python main.py```
 
 Control the right paddle with the "Up" and "Down" arrow keys, and the left paddle with "W" and "S".
 
->>>>>>> master
 
